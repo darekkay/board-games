@@ -1,0 +1,36 @@
+header { 
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 50px;
+  border-bottom: 1px solid #ccd1d4;
+}
+
+.rc-slider {
+  margin: 10px 15px 0 15px;
+  max-width: 500px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  align-self: center;
+  margin-left: 10px;
+}
+
+.logo img {
+  margin-right: 5px;
+}
+
+@media screen and (max-width: 730px) {
+  .logo {
+    display: none;
+  }
+}

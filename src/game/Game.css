@@ -1,0 +1,98 @@
+.game {
+  display: flex;
+  width: 250px;
+  margin: 8px;
+  color: #fff;
+  background-color: #212121;
+  border: 1px solid #212121;
+}
+
+@media screen and (max-width: 550px) {
+  .game {
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+.cover {
+  max-height: 100px;
+  text-align: center;
+}
+
+.cover img {
+  max-height: 100px;
+}
+
+.description {
+  display: flex;
+  position: relative;
+  width: 100%;
+  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.title {
+  font-weight: bold;
+  cursor: default;
+}
+
+.title a, .title a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+.title a:hover {
+  color: #FFCE16;
+}
+
+.meta {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.players {
+  min-width: 45px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  background-color: #8e44ad;
+  font-weight: bold;
+}
+
+.expansions {
+  display: flex;
+  width: 32px;
+  height: 25px;
+  line-height: 25px;
+  background-color: #008aff;
+}
+
+.expansions img {
+  margin: auto;
+  width: 16px;
+  height: 16px;
+}
+
+.tooltip {
+  text-align: left;
+  max-width: 250px;
+  background-color: #008aff !important;
+}
+
+.tooltip:after {
+  border-bottom-color: #008aff !important;
+}
+
+.expansion:before {
+  content: '\2022 ';
+}

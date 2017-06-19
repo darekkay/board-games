@@ -1,0 +1,191 @@
+own:
+  - "6 Nimmt":
+      id: 432
+      players: [2, 10]
+  - "Abluxxen":
+      id: 153065
+      players: [2, 5]
+  - "Adios Amigos":
+      id: 41658
+      players: [2, 4]
+  - "Adventure Tours":
+      id: 165586
+      players: [3, 6]
+  - "Bang":
+      id: 3955
+      players: [4, 7]
+      expansions:
+        - ["Gold Rush", 107794]
+        - ["Bang Expansion Pack", 183275]
+  - "Bang - The Walking Dead":
+      id: 160567
+      players: [4, 7]
+  - "Black Stories":
+      id: 18803
+      players: [2, +]
+      expansions: 
+        - ["Black Stories 2", 20750]
+        - ["Black Stories 3 (App)", 26054]
+        - ["Black Stories 4", 41311]
+        - ["Black Stories 10", 168199]
+        - ["Black Stories - Funny Death", 96345]
+        - ["Black Stories - Real Crime", 57052]
+  - "Bohnanza":
+      id: 11
+      players: [2, 7]
+  - "Café International - Das Kartenspiel":
+      id: 1324
+      players: [2, 5]
+  - "Camel Up - Cards":
+      id: 192947
+      players: [2, 6]
+  - "Chez Genius":
+      id: 4604
+      players: [2, 5]
+  - "Chimera":
+      id: 156373
+      players: [3, 3]
+  - "Codenames":
+      id: 178900
+      players: [2, +]
+  - "Colt Express":
+      id: 158899
+      players: [2, 6]
+  - "Concept":
+      id: 147151
+      players: [2, +]
+  - "Cranium Karten":
+      id: 88608
+      players: [2, +]
+  - "Der Herr der Ringe - Die Suche":
+      id: 1426
+      players: [2, 2]
+      external: true
+  - "Die Siedler von Catan":
+      id: 13
+      players: [3, 4]
+  - "Dominion":
+      id: 36218
+      players: [2, 4]
+  - "Exit - Die verlassene Hütte":
+      id: 203420
+      players: [1, 6]
+  - "Exploding Kittens":
+      id: 172225
+      players: [2, 5]
+  - "Faily Tale":
+      id: 13823
+      players: [2, 5]
+      external: true
+  - "Fluxx":
+      id: 258
+      players: [2, 6]
+  - "Geistesblitz":
+      id: 83195
+      players: [2, 8]
+  - "Halli Galli":
+      id: 2944
+      players: [2, 6]
+  - "Halt mal kurz":
+      id: 191057
+      players: [3, 5]
+  - "Hanabi":
+      id: 98778
+      players: [2, 5]
+  - "Kill Doctor Lucky":
+      id: 257
+      players: [3, 8]
+  - "Level 8 - Das Kartenspiel":
+      id: 36599
+      players: [2, 6]
+  - "Machi Koro":
+      id: 143884
+      players: [2, 4]
+  - "Metropolys":
+      id: 25568
+      players: [2, 4]
+  - "Monopoly":
+      id: 1406
+      players: [2, 8]
+  - "Munchkin":
+      id: 96665
+      players: [3, 6]
+      expansions:
+        - ["Munchkin 4: Rasende Rösser", 20660]
+        - ["Munchkin 6: Durchgeknallte Dungeons", 33493]
+  - "Munchkin Beißt!":
+      id: 12194
+      players: [3, 6]
+      external: true
+  - "Mysterium":
+      id: 181304
+      players: [2, 7]
+  - "Nichtlustig":
+      id: 27837
+      players: [2, 4]
+  - "Nichtlustig - Doppelgänger":
+      id: c001
+      players: [2, 4]
+      custom: true
+  - "Nichtlustig - Fäkalini":
+      id: 2433643
+      players: [2, 4]
+  - "Nichtlustig - Labor Chaos":
+      id: 50912
+      players: [3, 6]
+  - "Nox":
+      id: 123370
+      players: [3, 6]
+  - "Pandemic":
+      id: 30549
+      players: [2, 4]
+  - "Patchwork":
+      id: 163412
+      players: [2, 2]
+  - "Phase 10":
+      id: 1258
+      players: [2, 6]
+  - "Pictomania":
+      id: 98229
+      players: [3, 6]
+      external: true
+  - "Piraten Fluxx":
+      id: 73538
+      players: [2, 6]
+  - "Scotland Yard":
+      id: 438
+      players: [2, 6]
+  - "Scrabble":
+      id: 320
+      players: [2, 4]
+      external: true
+  - "The Game - Extreme":
+      id: 209325
+      players: [1, 5]
+  - "Tichu":
+      id: 215
+      players: [4, 4]
+      expansions:
+        - ["Tichu Booster", 206088]
+  - "Ubongo Mini":
+      id: 28258
+      players: [1, 4]
+  - "Um Krone und Kragen":
+      id: 21632
+      players: [2, 5]
+      external: true
+  - "Wizard":
+      id: 1465
+      players: [3, 6]
+
+party:
+  - ["Addict a Ball"]
+  - ["Jenga", 2452]
+  - ["Pop Up Pirate", 9004]
+  - ["Kroko Doc", 10453]
+
+no-interest:
+  - ["Silhouette", 140650]
+  - ["The Game", 173090]
+  - ["Escape Room", 204836]
+

@@ -1,0 +1,23 @@
+{
+  "name": "board-games",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://darekkay.com/board-games",
+  "dependencies": {
+    "js-yaml": "^3.8.4",
+    "rc-slider": "^8.1.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-tooltip": "^3.3.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "yaml": "node_modules/.bin/js-yaml src/data/games.yml > src/data/games.json"
+  }
+}

@@ -1,0 +1,27 @@
+main {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 35px;
+  padding: 8px 0;
+  background-color: #edeff0;
+}
+
+@media screen and (max-width: 550px) {
+  main {
+    bottom: 0;
+  }
+}
+
+.scrollable-y {
+  height: 100%;
+  overflow-y: auto;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.games {
+  display: flex;
+  flex-wrap: wrap;
+}
