@@ -1,7 +1,7 @@
 .game {
   display: flex;
-  width: 250px;
-  margin: 8px;
+  width: 240px;
+  margin: 4px;
   color: #fff;
   background-color: #212121;
   border: 1px solid #212121;
@@ -12,6 +12,13 @@
     width: 100%;
     margin-right: 0;
     margin-left: 0;
+  }
+}
+
+@media screen and (min-width: 810px) {
+  .game {
+    margin: 8px;
+    width: 250px;
   }
 }
 
