@@ -19,7 +19,7 @@ class Header extends Component {
           />
           <div className="logo">
             <img src="img/cube.png" alt=""/>
-            <div class="title">Board Games</div>
+            <div className="title">Board Games</div>
           </div>
         </header>
     );
