@@ -6,3 +6,6 @@ Categorize and publish your board games collection.
 
 ![Screenshot](screenshot.jpg)
 
+## License
+
+This project and its contents are open source under the [MIT license](LICENSE).
