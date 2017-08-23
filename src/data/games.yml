@@ -67,6 +67,9 @@ own:
   - "Dominion":
       id: 36218
       players: [2, 4]
+  - "Exit - Die verbotene Burg":
+      id: 215840
+      players: [1, 6]
   - "Exit - Die verlassene Hütte":
       id: 203420
       players: [1, 6]
@@ -101,6 +104,9 @@ own:
   - "Machi Koro":
       id: 143884
       players: [2, 4]
+  - "Magic Maze":
+      id: 209778
+      players: [1, 8]
   - "Metropolys":
       id: 25568
       players: [2, 4]
@@ -152,6 +158,9 @@ own:
   - "Piraten Fluxx":
       id: 73538
       players: [2, 6]
+  - "Port Royal":
+      id: 156009
+      players: [2, 5]
   - "Scotland Yard":
       id: 438
       players: [2, 6]
@@ -162,6 +171,9 @@ own:
   - "Star Wars: Angriff der Klonkrieger":
       id: 127438
       players: [2, 4]
+  - "Tempel des Schreckens":
+      id: 206915
+      players: [3, 10]
   - "The Game - Extreme":
       id: 209325
       players: [1, 5]
