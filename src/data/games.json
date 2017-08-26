@@ -545,6 +545,33 @@
       }
     },
     {
+      "T.I.M.E. Stories": {
+        "id": 2617634,
+        "players": [
+          2,
+          4
+        ],
+        "expansions": [
+          [
+            "1. Der Marcy Fall",
+            180585
+          ],
+          [
+            "2. Die Drachen Prophezeiung",
+            189035
+          ],
+          [
+            "3. Hinter der Maske",
+            189686
+          ],
+          [
+            "4. Die Endurance Expedition",
+            193527
+          ]
+        ]
+      }
+    },
+    {
       "Ubongo Mini": {
         "id": 28258,
         "players": [
