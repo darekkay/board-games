@@ -101,6 +101,9 @@ own:
   - "Level 8 - Das Kartenspiel":
       id: 36599
       players: [2, 6]
+  - "Love Letter":
+      id: 129622
+      players: [2, 4]
   - "Machi Koro":
       id: 143884
       players: [2, 4]
