@@ -13,3 +13,6 @@ yarn-error.log*
 # JetBrains IDE
 *.iml
 /.idea
+
+# App
+/src/data
