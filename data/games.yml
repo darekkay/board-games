@@ -8,6 +8,9 @@ own:
   - "Adios Amigos":
       id: 41658
       players: [2, 4]
+  - "Agent Undercover":
+      id: 166384
+      players: [3, 8]
   - "Adventure Tours":
       id: 165586
       players: [3, 6]
@@ -57,6 +60,9 @@ own:
   - "Cranium Karten":
       id: 88608
       players: [2, +]
+  - "Der Herr der Ringe - Die Gefährten":
+      id: 2672
+      players: [2, 4]
   - "Der Herr der Ringe - Die Suche":
       id: 1426
       players: [2, 2]
@@ -67,6 +73,12 @@ own:
   - "Dominion":
       id: 36218
       players: [2, 4]
+  - "Exit -  Die Station im ewigen Eis":
+      id: 215842
+      players: [1, 6]
+  - "Exit - Die vergessene Insel":
+      id: 215841
+      players: [1, 6]
   - "Exit - Die verbotene Burg":
       id: 215840
       players: [1, 6]
@@ -211,7 +223,13 @@ party:
   - ["Kroko Doc", 10453]
 
 no-interest:
+  - ["Die Legenden von Andor", 127398]
+  - ["Die Legenden von Andor - Reise in den Norden", 156318]
   - ["Escape Room", 204836]
+  - ["Exit - Die Station im ewigen Eis", 215842]
+  - ["Exit - Die vergessene Insel", 215841]
+  - ["Exit - Die verbotene Burg", 215840]
+  - ["Exit - Die verlassene Hütte", 203420]
   - ["Junta", 242]
   - ["Silhouette", 140650]
   - ["The Game", 173090]
