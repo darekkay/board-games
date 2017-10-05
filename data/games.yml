@@ -1,4 +1,8 @@
 own:
+  - "5-Minute Dungeon":
+      id: 207830
+      players: [2, 5]
+
   - "6 Nimmt":
       id: 432
       players: [2, 10]
@@ -33,9 +37,13 @@ own:
         - ["Black Stories 10", 168199]
         - ["Black Stories - Funny Death", 96345]
         - ["Black Stories - Real Crime", 57052]
+        - ["Black Stories - Scary Music", 230563]
   - "Bohnanza":
       id: 11
       players: [2, 7]
+  - "Buffy the Vampire Slayer":
+      id: 203102
+      players: [1, 6]
   - "Café International - Das Kartenspiel":
       id: 1324
       players: [2, 5]
@@ -73,17 +81,17 @@ own:
   - "Dominion":
       id: 36218
       players: [2, 4]
-  - "Exit -  Die Station im ewigen Eis":
+  - "Exit - Das geheime Labor":
+      id: 203417
+      players: [1, 6]
+  - "Exit - Die Grabkammer des Pharao":
+      id: 203416
+      players: [1, 6]
+  - "Exit - Die Station im ewigen Eis":
       id: 215842
       players: [1, 6]
   - "Exit - Die vergessene Insel":
       id: 215841
-      players: [1, 6]
-  - "Exit - Die verbotene Burg":
-      id: 215840
-      players: [1, 6]
-  - "Exit - Die verlassene Hütte":
-      id: 203420
       players: [1, 6]
   - "Exploding Kittens":
       id: 172225
@@ -110,6 +118,9 @@ own:
   - "Kill Doctor Lucky":
       id: 257
       players: [3, 8]
+  - "Klugscheisser":
+      id: 137168
+      players: [2, +]
   - "Level 8 - Das Kartenspiel":
       id: 36599
       players: [2, 6]
@@ -176,6 +187,9 @@ own:
   - "Port Royal":
       id: 156009
       players: [2, 5]
+  - "Raptor":
+      id: 177639
+      players: [2, 2]
   - "Scotland Yard":
       id: 438
       players: [2, 6]
@@ -192,6 +206,9 @@ own:
   - "The Game - Extreme":
       id: 209325
       players: [1, 5]
+  - "The Walking Pet":
+      id: 217230
+      players: [2, 5]
   - "Tichu":
       id: 215
       players: [4, 4]
