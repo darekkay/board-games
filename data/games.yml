@@ -30,7 +30,7 @@ own:
   - "Black Stories":
       id: 18803
       players: [2, +]
-      expansions: 
+      expansions:
         - ["Black Stories 2", 20750]
         - ["Black Stories 3 (App)", 26054]
         - ["Black Stories 4", 41311]
@@ -78,6 +78,13 @@ own:
   - "Die Siedler von Catan":
       id: 13
       players: [3, 4]
+  - "Dixit":
+      id: 39856
+      players: [3, 6]
+      expansions:
+        - ["Dixit 3: Journey", 119657]
+        - ["Dixit 6: Memories", 174090]
+        - ["Dixit 7: Revelations", 205761]
   - "Dominion":
       id: 36218
       players: [2, 4]
@@ -152,6 +159,8 @@ own:
   - "Mysterium":
       id: 181304
       players: [2, 7]
+      expansions:
+        - ["Mysterium - Hidden Signs", 192661]
   - "Nichtlustig":
       id: 27837
       players: [2, 4]
