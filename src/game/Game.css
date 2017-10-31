@@ -76,18 +76,24 @@
   font-weight: bold;
 }
 
-.expansions {
-  display: flex;
-  width: 32px;
-  height: 25px;
-  line-height: 25px;
-  background-color: #008aff;
+.icon svg {
+  fill: #fff;
 }
 
-.expansions img {
-  margin: auto;
-  width: 16px;
-  height: 16px;
+.favorite, .expansions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 25px;
+}
+
+.favorite .icon svg {
+  fill: #ffac00;
+}
+
+.expansions {
+  background-color: #008aff;
 }
 
 .tooltip {

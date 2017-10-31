@@ -34,6 +34,7 @@ class App extends Component {
               players={players}
               custom={game.custom}
               expansions={game.expansions}
+              favorite={game.favorite}
           />
       );
     });

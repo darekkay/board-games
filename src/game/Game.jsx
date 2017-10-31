@@ -1,5 +1,8 @@
 import React, {Component} from 'react';
 import ReactTooltip from 'react-tooltip'
+
+import Icon from '../icon/Icon.jsx';
+
 import './Game.css';
 
 class Game extends Component {
@@ -10,6 +13,7 @@ class Game extends Component {
         players,
         title,
         custom,
+        favorite,
         expansions
     } = this.props;
 
@@ -37,11 +41,15 @@ class Game extends Component {
             </div>
 
             <div className="meta">
-              {expansions &&
-              <div className="expansions" data-tip={renderExpansions(expansions)}>
-                <img src="img/expansions.png" alt="Expansions" />
+              {favorite &&
+              <div className="favorite" title="Favorite">
+                <Icon name="favorite"/>
               </div>
-
+              }
+              {expansions &&
+              <div className="expansions" title="Expansions" data-tip={renderExpansions(expansions)}>
+                <Icon name="expansions"/>
+              </div>
               }
               <div className="players">
                 {renderPlayers(players)}

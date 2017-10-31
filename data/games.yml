@@ -2,7 +2,6 @@ own:
   - "5-Minute Dungeon":
       id: 207830
       players: [2, 5]
-
   - "6 Nimmt":
       id: 432
       players: [2, 10]
@@ -15,6 +14,7 @@ own:
   - "Agent Undercover":
       id: 166384
       players: [3, 8]
+      favorite: true
   - "Adventure Tours":
       id: 165586
       players: [3, 6]
@@ -59,6 +59,7 @@ own:
   - "Codenames":
       id: 178900
       players: [2, +]
+      favorite: true
   - "Colt Express":
       id: 158899
       players: [2, 6]
@@ -122,6 +123,7 @@ own:
   - "Hanabi":
       id: 98778
       players: [2, 5]
+      favorite: true
   - "Kill Doctor Lucky":
       id: 257
       players: [3, 8]
@@ -140,6 +142,7 @@ own:
   - "Magic Maze":
       id: 209778
       players: [1, 8]
+      favorite: true
   - "Metropolys":
       id: 25568
       players: [2, 4]
@@ -159,6 +162,7 @@ own:
   - "Mysterium":
       id: 181304
       players: [2, 7]
+      favorite: true
       expansions:
         - ["Mysterium - Hidden Signs", 192661]
   - "Nichtlustig":
@@ -180,6 +184,7 @@ own:
   - "Pandemic":
       id: 30549
       players: [2, 4]
+      favorite: true
   - "Patchwork":
       id: 163412
       players: [2, 2]
@@ -221,6 +226,7 @@ own:
   - "Tichu":
       id: 215
       players: [4, 4]
+      favorite: true
       expansions:
         - ["Tichu Booster", 206088]
   - "T.I.M.E. Stories":
