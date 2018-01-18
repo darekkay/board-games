@@ -3,6 +3,8 @@ import './Footer.css';
 
 class Footer extends Component {
 
+  shouldComponentUpdate = () => false; // The footer does not ever change
+
   render() {
     return (
         <footer>

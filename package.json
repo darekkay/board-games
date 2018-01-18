@@ -12,7 +12,8 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-yaml": "^1.0.1"
+    "gulp-yaml": "^1.0.1",
+    "why-did-you-update": "^0.1.0"
   },
   "scripts": {
     "start": "npm run yaml-convert && react-scripts start",

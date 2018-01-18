@@ -6,6 +6,8 @@ import './Header.css';
 
 class Header extends Component {
 
+  shouldComponentUpdate = () => false; // The header does not ever change, as there are no props
+
   render() {
     return (
         <header>

@@ -3,7 +3,8 @@ import './App.css';
 
 import Header from './header/Header';
 import Footer from './footer/Footer';
-import Game from './game/Game';
+import GameList from "./gamelist/GameList";
+
 import games from './data/games.json';
 
 class App extends Component {
@@ -12,33 +13,6 @@ class App extends Component {
     super(props);
     this.state = {player: 1};
   }
-
-  renderGames() {
-    return games.own.map(elem => {
-      const title = Object.keys(elem)[0];
-      const game = elem[title];
-      const id = game.id;
-      const players = {
-        min: game.players[0],
-        max: game.players[1] === '+' ? undefined : game.players[1]
-      };
-
-      if (this.state.player > 1 && (players.min > this.state.player || players.max < this.state.player))
-        return "";
-
-      return (
-          <Game
-              key={id}
-              id={id}
-              title={title}
-              players={players}
-              custom={game.custom}
-              expansions={game.expansions}
-              favorite={game.favorite}
-          />
-      );
-    });
-  };
 
   onPlayerChange(value) {
     this.setState({
@@ -53,7 +27,7 @@ class App extends Component {
           <main>
             <div className="scrollable-y">
               <div className="games">
-                {this.renderGames()}
+                <GameList games={games} player={this.state.player}/>
               </div>
             </div>
           </main>

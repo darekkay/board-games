@@ -6,6 +6,9 @@ import Icon from '../icon/Icon.jsx';
 import './Game.css';
 
 class Game extends Component {
+
+  shouldComponentUpdate = () => false; // The game content does not ever change
+
   render() {
 
     const {
