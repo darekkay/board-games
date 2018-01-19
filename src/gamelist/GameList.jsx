@@ -3,7 +3,6 @@ import React, { Component } from "react";
 import Game from "../game/Game";
 
 class GameList extends Component {
-
   render() {
     const { games, player } = this.props;
 

@@ -1,16 +1,16 @@
-footer { 
+footer {
   display: flex;
   justify-content: space-between;
-  
+
   position: fixed;
   left: 0;
   right: 0;
   bottom: 0;
   padding: 0 10px;
-  
+
   height: 35px;
   line-height: 35px;
-  
+
   font-size: 12px;
   text-align: center;
   border-top: 1px solid #ccd1d4;
@@ -22,7 +22,9 @@ footer {
   }
 }
 
-a, a:visited, a:hover {
+a,
+a:visited,
+a:hover {
   color: #008aff;
 }
 

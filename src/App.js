@@ -1,17 +1,16 @@
-import React, {Component} from 'react';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
 
-import Header from './header/Header';
-import Footer from './footer/Footer';
+import Header from "./header/Header";
+import Footer from "./footer/Footer";
 import GameList from "./gamelist/GameList";
 
-import games from './data/games.json';
+import games from "./data/games.json";
 
 class App extends Component {
-
   constructor(props) {
     super(props);
-    this.state = {player: 1};
+    this.state = { player: 1 };
   }
 
   onPlayerChange(value) {
@@ -22,18 +21,18 @@ class App extends Component {
 
   render() {
     return (
-        <div id="app">
-          <Header onChange={this.onPlayerChange.bind(this)}/>
-          <main>
-            <div className="scrollable-y">
-              <div className="games">
-                <GameList games={games} player={this.state.player}/>
-              </div>
+      <div id="app">
+        <Header onChange={this.onPlayerChange.bind(this)} />
+        <main>
+          <div className="scrollable-y">
+            <div className="games">
+              <GameList games={games} player={this.state.player} />
             </div>
-          </main>
-          <Footer />
-        </div>
-    )
+          </div>
+        </main>
+        <Footer />
+      </div>
+    );
   }
 }
 
