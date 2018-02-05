@@ -4,7 +4,7 @@ own:
       players: [2, 5]
   - "6 Nimmt":
       id: 432
-      players: [2, 10]
+      players: [3, 10]
   - "Abluxxen":
       id: 153065
       players: [2, 5]
@@ -23,13 +23,13 @@ own:
       players: [2, 4]
   - "Bang":
       id: 3955
-      players: [4, 7]
+      players: [5, 7]
       expansions:
         - ["Gold Rush", 107794]
         - ["Bang Expansion Pack", 183275]
   - "Bang - The Walking Dead":
       id: 160567
-      players: [4, 7]
+      players: [5, 7]
   - "Black Stories":
       id: 18803
       players: [2, +]
@@ -43,7 +43,7 @@ own:
         - ["Black Stories - Scary Music", 230563]
   - "Bohnanza":
       id: 11
-      players: [2, 7]
+      players: [3, 7]
   - "Buffy the Vampire Slayer":
       id: 203102
       players: [1, 6]
@@ -55,17 +55,21 @@ own:
       players: [2, 6]
   - "Chez Genius":
       id: 4604
-      players: [2, 5]
+      players: [3, 5]
   - "Chimera":
       id: 156373
       players: [3, 3]
+  - "Cluedo":
+      id: 1294
+      external: true
+      players: [3, 6]
   - "Codenames":
       id: 178900
       players: [2, +]
       favorite: true
   - "Colt Express":
       id: 158899
-      players: [2, 6]
+      players: [3, 6]
   - "Concept":
       id: 147151
       players: [2, +]
@@ -92,9 +96,6 @@ own:
   - "Dominion":
       id: 36218
       players: [2, 4]
-  - "Exit - Das geheime Labor":
-      id: 203417
-      players: [1, 3]
   - "Exit - Der Tote im Orient-Express":
       id: 226522
       players: [1, 3]
@@ -104,7 +105,9 @@ own:
   - "Exploding Kittens":
       id: 172225
       players: [2, 5]
-  - "Faily Tale":
+      expansions:
+        - ["Imploding Kittens", 204053]
+  - "Fairy Tale":
       id: 13823
       players: [2, 5]
       external: true
@@ -141,7 +144,7 @@ own:
       players: [2, 4]
   - "Magic Maze":
       id: 209778
-      players: [1, 8]
+      players: [2, 8]
       favorite: true
   - "Metropolys":
       id: 25568
@@ -150,7 +153,7 @@ own:
       id: 1406
       players: [2, 8]
   - "Munchkin":
-      id: 96665
+      id: 1927
       players: [3, 6]
       expansions:
         - ["Munchkin 4: Rasende Rösser", 20660]
@@ -173,7 +176,7 @@ own:
       players: [2, 4]
       custom: true
   - "Nichtlustig - Fäkalini":
-      id: 2433643
+      id: 153372
       players: [2, 4]
   - "Nichtlustig - Labor Chaos":
       id: 50912
@@ -228,7 +231,7 @@ own:
       expansions:
         - ["Tichu Booster", 206088]
   - "T.I.M.E. Stories":
-      id: 2617634
+      id: 146508
       players: [2, 4]
       expansions:
         - ["1. Der Marcy Fall", 180585]
@@ -256,9 +259,14 @@ party:
   - ["Kroko Doc", 10453]
 
 completed:
+  - ["Deckscape - Test Time", 218311]
   - ["Die Legenden von Andor", 127398]
   - ["Die Legenden von Andor - Reise in den Norden", 156318]
   - ["Escape Room", 204836]
+  - ["Escape Room - Virtual Reality", 229315]
+  - ["Escape Room: Space Station", 221701]
+  - ["Escape Room: Welcome to Funland", 216961]
+  - ["Exit - Das geheime Labor", 203417]
   - ["Exit - Die Station im ewigen Eis", 215842]
   - ["Exit - Die vergessene Insel", 215841]
   - ["Exit - Die verbotene Burg", 215840]
@@ -272,4 +280,5 @@ no-interest:
   - ["Phase 10", 1258]
   - ["Room 25", 127024]
   - ["Silhouette", 140650]
+  - ["Space Alert", 38453]
   - ["The Game", 173090]
