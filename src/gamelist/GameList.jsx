@@ -15,7 +15,8 @@ class GameList extends Component {
         max: game.players[1] === "+" ? undefined : game.players[1]
       };
 
-      if (player > 1 && (players.min > player || players.max < player)) return "";
+      if (player > 1 && (players.min > player || players.max < player))
+        return "";
 
       return (
         <Game
