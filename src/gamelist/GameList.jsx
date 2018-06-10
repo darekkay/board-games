@@ -2,6 +2,8 @@ import React, { Component } from "react";
 
 import Game from "../game/Game";
 
+const MAX_PLAYERS = 8;
+
 class GameList extends Component {
   render() {
     const { games, player } = this.props;
@@ -15,7 +17,10 @@ class GameList extends Component {
         max: game.players[1] === "+" ? undefined : game.players[1]
       };
 
-      if (player > 1 && (players.min > player || players.max < player))
+      if (
+        player > 1 &&
+        ((players.min > player && player < MAX_PLAYERS) || players.max < player)
+      )
         return "";
 
       return (
