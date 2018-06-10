@@ -96,12 +96,6 @@ own:
   - "Dominion":
       id: 36218
       players: [2, 4]
-  - "Exit - Der Tote im Orient-Express":
-      id: 226522
-      players: [1, 3]
-  - "Exit - Die Grabkammer des Pharao":
-      id: 203416
-      players: [1, 3]
   - "Exploding Kittens":
       id: 172225
       players: [2, 5]
@@ -267,6 +261,8 @@ completed:
   - ["Escape Room: Space Station", 221701]
   - ["Escape Room: Welcome to Funland", 216961]
   - ["Exit - Das geheime Labor", 203417]
+  - ["Exit - Der Tote im Orient-Express", 226522]
+  - ["Exit - Die Grabkammer des Pharao", 203416]
   - ["Exit - Die Station im ewigen Eis", 215842]
   - ["Exit - Die vergessene Insel", 215841]
   - ["Exit - Die verbotene Burg", 215840]
