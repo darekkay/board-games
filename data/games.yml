@@ -73,6 +73,11 @@ own:
   - "Concept":
       id: 147151
       players: [2, +]
+  - "Coup":
+      id: 131357
+      players: [2, 6]
+      expansions:
+        - ["Coup: Reformation", 148931]
   - "Cranium Karten":
       id: 88608
       players: [2, +]
@@ -121,6 +126,9 @@ own:
       id: 98778
       players: [2, 5]
       favorite: true
+  - "Hanamikoji":
+      id: 158600
+      players: [2, 2]
   - "Kill Doctor Lucky":
       id: 257
       players: [3, 8]
@@ -133,6 +141,7 @@ own:
   - "Love Letter":
       id: 129622
       players: [2, 4]
+      self-made: true
   - "Machi Koro":
       id: 143884
       players: [2, 4]
@@ -178,6 +187,10 @@ own:
   - "Nox":
       id: 123370
       players: [3, 6]
+  - "Onitama":
+      id: 160477
+      players: [2, 2]
+      self-made: true
   - "Pandemic":
       id: 30549
       players: [2, 4]
@@ -215,6 +228,10 @@ own:
   - "The Game - Extreme":
       id: 209325
       players: [1, 5]
+  - "The Mind":
+      id: 244992
+      players: [2, 4]
+      self-made: true
   - "The Walking Pet":
       id: 217230
       players: [2, 5]
@@ -274,6 +291,7 @@ no-interest:
   - ["Kingdomino", 204583]
   - ["Junta", 242]
   - ["Phase 10", 1258]
+  - ["Pikoko", 244505]
   - ["Room 25", 127024]
   - ["Silhouette", 140650]
   - ["Space Alert", 38453]
