@@ -1,4 +1,8 @@
 own:
+  - "13 Minutes: The Cuban Missile Crisis":
+      id: 203828
+      players: [2, 2]
+      self-made: true
   - "5-Minute Dungeon":
       id: 207830
       players: [2, 5]
@@ -113,6 +117,9 @@ own:
   - "Fluxx":
       id: 258
       players: [2, 6]
+  - "Ganz schön clever":
+      id: 244522
+      players: [1, 4]
   - "Geistesblitz":
       id: 83195
       players: [2, 8]
@@ -208,6 +215,10 @@ own:
   - "Port Royal":
       id: 156009
       players: [2, 5]
+  - "Qwinto":
+      id: 183006
+      players: [2, 6]
+      self-made: true
   - "Raptor":
       id: 177639
       players: [2, 2]
@@ -244,11 +255,6 @@ own:
   - "T.I.M.E. Stories":
       id: 146508
       players: [2, 4]
-      expansions:
-        - ["1. Der Marcy Fall", 180585]
-        - ["2. Die Drachen Prophezeiung", 189035]
-        - ["3. Hinter der Maske", 189686]
-        - ["4. Die Endurance Expedition", 193527]
   - "Ubongo Mini":
       id: 28258
       players: [1, 4]
@@ -271,6 +277,7 @@ party:
 
 completed:
   - ["Deckscape - Test Time", 218311]
+  - ["Deckscape - The Fate of London", 230498]
   - ["Die Legenden von Andor", 127398]
   - ["Die Legenden von Andor - Reise in den Norden", 156318]
   - ["Escape Room", 204836]
@@ -284,15 +291,25 @@ completed:
   - ["Exit - Die vergessene Insel", 215841]
   - ["Exit - Die verbotene Burg", 215840]
   - ["Exit - Die verlassene Hütte", 203420]
-  - ["Unlock", 213460]
+  - ["T.I.M.E. Stories - 1. Der Marcy Fall", 180585]
+  - ["T.I.M.E. Stories - 2. Die Drachen Prophezeiung", 189035]
+  - ["T.I.M.E. Stories - 3. Hinter der Maske", 189686]
+  - ["T.I.M.E. Stories - 4. Die Endurance Expedition", 193527]
+  - ["T.I.M.E. Stories - 5. Lumen Fidei", 213099]
+  - ["Unlock - Escape Adventures", 213460]
+  - ["Unlock - Mystery Adventures", 228867]
+  - ["Unlock - Secret Adventures", 239307]
 
 no-interest:
   - ["Broom Service", 172308]
+  - ["Die Legenden von Andor: Chada & Thorn", 177079]
   - ["Kingdomino", 204583]
   - ["Junta", 242]
   - ["Phase 10", 1258]
   - ["Pikoko", 244505]
-  - ["Room 25", 127024]
+  - ["Qwixx", 131260]
   - ["Silhouette", 140650]
   - ["Space Alert", 38453]
   - ["The Game", 173090]
+  - ["T.I.M.E. Stories - 6. Estrella Drive", 220836]
+  - ["T.I.M.E. Stories - 7. Brüderschaft der Küste", 220839]
