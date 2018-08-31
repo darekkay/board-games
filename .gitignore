@@ -12,8 +12,8 @@ yarn-error.log*
 /build
 
 # JetBrains IDE
-*.iml
-/.idea
+/.idea/workspace.xml
+/.idea/tasks.xml
 
 # App
 /src/data
