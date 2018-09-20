@@ -202,6 +202,10 @@ own:
       id: 30549
       players: [2, 4]
       favorite: true
+      self-made: true
+  - "Pandemic Legacy: Season 1":
+      id: 161936
+      players: [2, 4]
   - "Patchwork":
       id: 163412
       players: [2, 2]
