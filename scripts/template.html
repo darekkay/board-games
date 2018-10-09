@@ -43,7 +43,13 @@
   <ul>
     {{#each games.0.own}}
     <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
-           rel="noopener">{{name}}</a></li>
+           rel="noopener">{{name}}</a>
+      <ul>
+      {{#each expansions}}
+        <li><a href="https://boardgamegeek.com/boardgameexpansion/{{1}}" target="_blank" rel="noopener">{{0}}</a></li>
+      {{/each}}
+      </ul>
+    </li>
     {{/each}}
   </ul>
 

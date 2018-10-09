@@ -5,21 +5,25 @@ const source = fs.readFileSync(`${__dirname}/template.html`, "utf-8");
 const template = handlebars.compile(source);
 const games = require(`${__dirname}/../src/data/games.json`);
 
+const transformObject = game => ({
+  name: Object.keys(game)[0],
+  ...Object.values(game)[0]
+});
+
+const transformArray = game => ({
+  name: game[0],
+  id: game[1]
+});
+
 const transform = source =>
   Object.entries(source).map(([category, list]) => {
     if (category === "own") {
       return {
-        [category]: list.map(game => ({
-          name: Object.keys(game)[0],
-          ...Object.values(game)[0]
-        }))
+        [category]: list.map(transformObject)
       };
     } else {
       return {
-        [category]: list.map(game => ({
-          name: game[0],
-          id: game[1]
-        }))
+        [category]: list.map(transformArray)
       };
     }
   });
