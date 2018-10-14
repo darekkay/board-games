@@ -136,6 +136,10 @@ own:
   - "Hanamikoji":
       id: 158600
       players: [2, 2]
+  - "Kakerlakak":
+      id: 137909
+      players: [2, 4]
+      external: true
   - "Kill Doctor Lucky":
       id: 257
       players: [3, 8]
