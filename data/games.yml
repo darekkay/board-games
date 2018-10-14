@@ -236,6 +236,10 @@ own:
   - "Star Wars: Angriff der Klonkrieger":
       id: 127438
       players: [2, 4]
+  - "Tapple":
+      id: 129556
+      players: [2, 6]
+      self-made: true
   - "Tempel des Schreckens":
       id: 206915
       players: [3, 10]
