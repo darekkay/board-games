@@ -10,15 +10,15 @@
   "dependencies": {
     "handlebars": "4.0.12",
     "rc-slider": "8.6.3",
-    "react": "16.5.2",
-    "react-dom": "16.5.2",
-    "react-scripts": "2.0.4",
-    "react-tooltip": "3.8.4"
+    "react": "16.6.0",
+    "react-dom": "16.6.0",
+    "react-scripts": "2.1.1",
+    "react-tooltip": "3.9.0"
   },
   "devDependencies": {
     "gulp": "3.9.1",
     "gulp-yaml": "2.0.2",
-    "why-did-you-update": "0.1.1"
+    "why-did-you-update": "0.2.0"
   },
   "homepage": "https://darekkay.com/board-games",
   "private": true,
