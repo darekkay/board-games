@@ -140,6 +140,9 @@ own:
       id: 137909
       players: [2, 4]
       external: true
+  - "Keep Talking and Nobody Explodes":
+      id: c002
+      players: [2, 6]
   - "Kill Doctor Lucky":
       id: 257
       players: [3, 8]
@@ -292,12 +295,14 @@ completed:
   - ["Deckscape - The Fate of London", 230498]
   - ["Die Legenden von Andor", 127398]
   - ["Die Legenden von Andor - Reise in den Norden", 156318]
+  - ["Exit Puzzle 3: Hexenküche", null]
   - ["Escape Room", 204836]
   - ["Escape Room - Virtual Reality", 229315]
   - ["Escape Room: Space Station", 221701]
   - ["Escape Room: Welcome to Funland", 216961]
   - ["Exit - Das geheime Labor", 203417]
   - ["Exit - Der Tote im Orient-Express", 226522]
+  - ["Exit - Der versunkene Schatz", 226518]
   - ["Exit - Die Grabkammer des Pharao", 203416]
   - ["Exit - Die Station im ewigen Eis", 215842]
   - ["Exit - Die vergessene Insel", 215841]
