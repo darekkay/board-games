@@ -71,6 +71,9 @@ own:
       id: 178900
       players: [2, +]
       favorite: true
+  - "Codenames Duet":
+      id: 224037
+      players: [2, 2]
   - "Colt Express":
       id: 158899
       players: [3, 6]
@@ -85,6 +88,9 @@ own:
   - "Cranium Karten":
       id: 88608
       players: [2, +]
+  - "Deception: Murder in Hong Kong":
+      id: 156129
+      players: [4, 12]
   - "Der Herr der Ringe - Die Gefährten":
       id: 2672
       players: [2, 4]
@@ -136,6 +142,9 @@ own:
   - "Hanamikoji":
       id: 158600
       players: [2, 2]
+  - "Holmes - Sherlock gegen Moriarty":
+      id: 174078
+      players: [2, 4]
   - "Kakerlakak":
       id: 137909
       players: [2, 4]
@@ -149,6 +158,12 @@ own:
   - "Klugscheisser":
       id: 137168
       players: [2, +]
+  - "Kodama":
+      id: 181810
+      players: [2, 5]
+  - "Kurzer Prozess":
+      id: 217136
+      players: [3, 6]
   - "Level 8 - Das Kartenspiel":
       id: 36599
       players: [2, 6]
@@ -181,10 +196,11 @@ own:
       external: true
   - "Mysterium":
       id: 181304
-      players: [2, 7]
+      players: [4, 7]
       favorite: true
       expansions:
         - ["Mysterium - Hidden Signs", 192661]
+        - ["Mysterium - Secrets & Lies", 216465]
   - "Nichtlustig":
       id: 27837
       players: [2, 4]
@@ -240,6 +256,9 @@ own:
       id: 320
       players: [2, 4]
       external: true
+  - "Skull King":
+      id: 150145
+      players: [2, 6]
   - "Star Wars: Angriff der Klonkrieger":
       id: 127438
       players: [2, 4]
@@ -254,10 +273,16 @@ own:
   - "The Game - Extreme":
       id: 209325
       players: [1, 5]
+  - "The Lost Expedition":
+      id: 216459
+      players: [1, 5]
   - "The Mind":
       id: 244992
       players: [2, 4]
       self-made: true
+  - "The Resistance":
+      id: 41114
+      players: [5, 10]
   - "The Walking Pet":
       id: 217230
       players: [2, 5]
@@ -283,6 +308,9 @@ own:
   - "Werwölfe":
       id: 144464
       players: [9, 68]
+  - "Zoff im Zoo":
+      id: 340
+      players: [3, 7]
 
 party:
   - ["Addict a Ball"]
@@ -295,12 +323,16 @@ completed:
   - ["Deckscape - The Fate of London", 230498]
   - ["Die Legenden von Andor", 127398]
   - ["Die Legenden von Andor - Reise in den Norden", 156318]
+  - ["Exit Puzzle 1: Sternwarte", null]
+  - ["Exit Puzzle 2: Tempel in Angkor Wat", null]
   - ["Exit Puzzle 3: Hexenküche", null]
+  - ["Escape Adventures – Von Königen und Alchemisten", null]
   - ["Escape Room", 204836]
   - ["Escape Room - Virtual Reality", 229315]
   - ["Escape Room: Space Station", 221701]
   - ["Escape Room: Welcome to Funland", 216961]
   - ["Exit - Das geheime Labor", 203417]
+  - ["Exit - Das mysteriöse Museum", 244918]
   - ["Exit - Der Tote im Orient-Express", 226522]
   - ["Exit - Der versunkene Schatz", 226518]
   - ["Exit - Die Grabkammer des Pharao", 203416]
