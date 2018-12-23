@@ -8,7 +8,7 @@ own:
       players: [2, 5]
   - "6 Nimmt":
       id: 432
-      players: [3, 10]
+      players: [4, 10]
   - "Abluxxen":
       id: 153065
       players: [2, 5]
@@ -17,7 +17,7 @@ own:
       players: [2, 4]
   - "Agent Undercover":
       id: 166384
-      players: [3, 8]
+      players: [5, 8]
       favorite: true
   - "Adventure Tours":
       id: 165586
@@ -82,12 +82,12 @@ own:
       players: [2, +]
   - "Coup":
       id: 131357
-      players: [2, 6]
+      players: [3, 6]
       expansions:
         - ["Coup: Reformation", 148931]
   - "Cranium Karten":
       id: 88608
-      players: [2, +]
+      players: [4, +]
   - "Deception: Murder in Hong Kong":
       id: 156129
       players: [4, 12]
@@ -183,7 +183,7 @@ own:
       players: [2, 4]
   - "Monopoly":
       id: 1406
-      players: [2, 8]
+      players: [3, 8]
   - "Munchkin":
       id: 1927
       players: [3, 6]
@@ -251,7 +251,7 @@ own:
       players: [2, 2]
   - "Scotland Yard":
       id: 438
-      players: [2, 6]
+      players: [3, 6]
   - "Scrabble":
       id: 320
       players: [2, 4]
