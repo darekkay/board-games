@@ -2,12 +2,11 @@ import React, { Component } from "react";
 import "./Footer.css";
 
 class Footer extends Component {
-  shouldComponentUpdate = () => false; // The footer does not ever change
-
   render() {
+    const { filteredGamesCount, allGamesCount } = this.props;
     return (
       <footer>
-        <div>
+        <div className="footer-link">
           <a
             href="https://darekkay.com"
             target="_blank"
@@ -18,7 +17,11 @@ class Footer extends Component {
           </a>
         </div>
 
-        <div className="github">
+        <div className="footer-gamecount">
+          {filteredGamesCount} / {allGamesCount}
+        </div>
+
+        <div className="footer-link">
           <a
             href="https://github.com/darekkay/board-games"
             target="_blank"

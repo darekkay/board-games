@@ -3,7 +3,7 @@ import "./App.css";
 
 import Header from "./header/Header";
 import Footer from "./footer/Footer";
-import GameList from "./gamelist/GameList";
+import GameList, { filteredGamesCount } from "./gamelist/GameList";
 
 import games from "./data/games.json";
 
@@ -30,7 +30,10 @@ class App extends Component {
             </div>
           </div>
         </main>
-        <Footer />
+        <Footer
+          allGamesCount={games.own.length}
+          filteredGamesCount={filteredGamesCount(games, this.state.player)}
+        />
       </div>
     );
   }

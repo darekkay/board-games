@@ -8,12 +8,6 @@ main {
   background-color: #edeff0;
 }
 
-@media screen and (max-width: 550px) {
-  main {
-    bottom: 0;
-  }
-}
-
 .scrollable-y {
   height: 100%;
   overflow-y: auto;

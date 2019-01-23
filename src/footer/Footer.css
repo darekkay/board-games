@@ -16,19 +16,22 @@ footer {
   border-top: 1px solid #ccd1d4;
 }
 
-@media screen and (max-width: 550px) {
-  footer {
-    display: none;
-  }
-}
-
 a,
 a:visited,
 a:hover {
   color: #008aff;
 }
 
-.github {
+.footer-link {
   display: flex;
   align-items: center;
+}
+
+@media screen and (max-width: 550px) {
+  footer {
+    justify-content: space-around;
+  }
+  .footer-link {
+    display: none;
+  }
 }
