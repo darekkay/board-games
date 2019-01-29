@@ -116,6 +116,7 @@ own:
       players: [2, 5]
       expansions:
         - ["Imploding Kittens", 204053]
+        - ["Streaking Kittens", 260214]
   - "Fairy Tale":
       id: 13823
       players: [2, 5]
