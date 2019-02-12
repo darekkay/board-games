@@ -19,7 +19,6 @@ export const filteredGamesCount = (games, player) => {
     games.own.filter(elem => {
       const title = Object.keys(elem)[0];
       const game = elem[title];
-      const id = game.id;
       const players = getPlayers(game);
 
       return isHidden(player, players);
