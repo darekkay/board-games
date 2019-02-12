@@ -8,16 +8,19 @@ const folder = {
   yamlDest: "src/data/"
 };
 
-gulp.task("yaml", ["yaml-convert", "watch"]);
+/** Convert YAML → JSON  */
+const convertYaml = () => gulp
+  .src(folder.yamlSrc)
+  .pipe(yaml())
+  .pipe(gulp.dest(folder.yamlDest));
 
-gulp.task("yaml-convert", () => {
-  /* Convert YAML → JSON */
-  return gulp
-    .src(folder.yamlSrc)
-    .pipe(yaml())
-    .pipe(gulp.dest(folder.yamlDest));
-});
 
-gulp.task("watch", () => {
-  gulp.watch(folder.yamlSrc, ["yaml-convert"]);
-});
+const watch = () => {
+  gulp.watch(folder.yamlSrc, convertYaml);
+};
+
+const build = gulp.series(convertYaml, watch);
+
+exports.watch = watch;
+exports.convertYaml = convertYaml;
+exports.default = build;
