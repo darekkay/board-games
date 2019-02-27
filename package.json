@@ -9,9 +9,9 @@
   ],
   "dependencies": {
     "handlebars": "4.1.0",
-    "rc-slider": "8.6.5",
-    "react": "16.8.1",
-    "react-dom": "16.8.1",
+    "rc-slider": "8.6.6",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
     "react-scripts": "2.1.5",
     "react-tooltip": "3.9.2"
   },
