@@ -1,6 +1,8 @@
 {
   "name": "board-games",
+  "description": "Categorize and publish your board games collection",
   "version": "1.0.0",
+  "author": "Darek Kay <hello@darekkay.com> (https://darekkay.com/)",
   "browserslist": [
     ">0.2%",
     "not dead",
@@ -16,19 +18,32 @@
     "react-tooltip": "3.9.2"
   },
   "devDependencies": {
+    "cross-env": "5.2.0",
+    "enzyme": "3.9.0",
+    "enzyme-adapter-react-16": "1.10.0",
+    "eslint-config-prettier": "4.1.0",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-jsx-a11y": "6.2.1",
+    "eslint-plugin-prettier": "3.0.1",
+    "eslint-plugin-react": "7.12.4",
     "gulp": "4.0.0",
     "gulp-yaml": "2.0.3",
+    "prettier": "1.16.4",
     "why-did-you-update": "1.0.6"
   },
   "homepage": "https://darekkay.com/board-games",
+  "license": "MIT",
+  "main": "src/index.js",
   "private": true,
   "scripts": {
     "build": "npm run yaml-convert && react-scripts build && npm run list-all",
-    "eject": "react-scripts eject",
+    "ci": "npm run lint:check && npm run test",
     "format": "prettier --write -- \"{src,public}/**/*.{js,jsx,json,css}\"",
+    "lint:check": "eslint src/**/*.js",
+    "lint:fix": "eslint --fix src/**/*.js",
     "list-all": "node scripts/list-all.js",
     "start": "npm run yaml-convert && react-scripts start",
-    "test": "react-scripts test --env=jsdom",
+    "test": "cross-env CI=true react-scripts test --env=jsdom --modulePaths=src",
     "yaml-convert": "gulp convertYaml"
   }
 }

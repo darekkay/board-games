@@ -1,0 +1,24 @@
+{
+  "extends": ["react-app", "prettier"],
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true,
+    "node": true
+  },
+  "plugins": ["import", "jsx-a11y", "prettier", "react"],
+  "root": true,
+  "rules": {
+    "linebreak-style": "off",
+    "prettier/prettier": "warn",
+    "radix": "off",
+    "react/jsx-filename-extension": "off",
+    "react/prop-types": "warn",
+    "react/require-default-props": "warn"
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}
