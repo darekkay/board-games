@@ -6,6 +6,8 @@ own:
   - "5-Minute Dungeon":
       id: 207830
       players: [2, 5]
+      expansions:
+        - ["Der Fluch des Overlords", 253170]
   - "6 Nimmt":
       id: 432
       players: [4, 10]
@@ -106,6 +108,7 @@ own:
       players: [4, 6]
       expansions:
         - ["Dixit 3: Journey", 119657]
+        - ["Dixit 5: Daydreams", 156189]
         - ["Dixit 6: Memories", 174090]
         - ["Dixit 7: Revelations", 205761]
   - "Dominion":
@@ -277,6 +280,8 @@ own:
   - "The Lost Expedition":
       id: 216459
       players: [1, 5]
+      expansions:
+        - ["The Fountain of Youth & Other Adventures", 248181]
   - "The Mind":
       id: 244992
       players: [2, 4]
@@ -309,6 +314,9 @@ own:
   - "Werwölfe":
       id: 144464
       players: [9, 68]
+  - "Werwörter":
+      id: 219215
+      players: [5, 10]
   - "Zoff im Zoo":
       id: 340
       players: [3, 7]
@@ -322,6 +330,7 @@ party:
 completed:
   - ["Deckscape - Test Time", 218311]
   - ["Deckscape - The Fate of London", 230498]
+  - ["Deckscape - Behind the Curtain", 267735]
   - ["Die Legenden von Andor", 127398]
   - ["Die Legenden von Andor - Reise in den Norden", 156318]
   - ["Exit Puzzle 1: Sternwarte", null]
@@ -333,7 +342,6 @@ completed:
   - ["Escape Room: Space Station", 221701]
   - ["Escape Room: Welcome to Funland", 216961]
   - ["Exit - Das geheime Labor", 203417]
-  - ["Exit - Das mysteriöse Museum", 244918]
   - ["Exit - Der Tote im Orient-Express", 226522]
   - ["Exit - Der versunkene Schatz", 226518]
   - ["Exit - Die Grabkammer des Pharao", 203416]
@@ -341,18 +349,23 @@ completed:
   - ["Exit - Die vergessene Insel", 215841]
   - ["Exit - Die verbotene Burg", 215840]
   - ["Exit - Die verlassene Hütte", 203420]
+  - ["Sherlock - Last Call", 250780]
   - ["T.I.M.E. Stories - 1. Der Marcy Fall", 180585]
   - ["T.I.M.E. Stories - 2. Die Drachen Prophezeiung", 189035]
   - ["T.I.M.E. Stories - 3. Hinter der Maske", 189686]
   - ["T.I.M.E. Stories - 4. Die Endurance Expedition", 193527]
   - ["T.I.M.E. Stories - 5. Lumen Fidei", 213099]
   - ["Unlock - Escape Adventures", 213460]
+  - ["Unlock - Exotic Adventures", 254226]
   - ["Unlock - Mystery Adventures", 228867]
   - ["Unlock - Secret Adventures", 239307]
 
 no-interest:
   - ["Broom Service", 172308]
-  - ["Die Legenden von Andor: Chada & Thorn", 177079]
+  - ["Escape Dysturbia: Mörderischer Maskenball", 265113]
+  - ["Exit - Das mysteriöse Museum", 244918]
+  - ["Exit - Die Katakomben des Grauens", 255675]
+  - ["Exit - Die unheimliche Villa", 226520]
   - ["Kingdomino", 204583]
   - ["Junta", 242]
   - ["Phase 10", 1258]
@@ -361,5 +374,4 @@ no-interest:
   - ["Silhouette", 140650]
   - ["Space Alert", 38453]
   - ["The Game", 173090]
-  - ["T.I.M.E. Stories - 6. Estrella Drive", 220836]
   - ["T.I.M.E. Stories - 7. Brüderschaft der Küste", 220839]
