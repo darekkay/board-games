@@ -1,19 +1,28 @@
-# Node.js
+### Node.js ###
+
 /node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.env
+package-lock.json
 
-# Testing
-/coverage
 
-# Production
-/build
+### IDE ###
 
-# JetBrains IDE
 /.idea/workspace.xml
 /.idea/tasks.xml
+/.idea/shelf
 
-# App
+
+### App ###
+
+/build
+/coverage
+.env*.local
 /src/data
+
+
+### Misc ###
+
+*.log
+.DS_Store
