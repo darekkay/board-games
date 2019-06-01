@@ -301,6 +301,9 @@ own:
   - "T.I.M.E. Stories":
       id: 146508
       players: [2, 4]
+  - "Tummple":
+      id: 156878
+      players: [2, 6]
   - "Ubongo Mini":
       id: 28258
       players: [1, 4]
@@ -362,6 +365,8 @@ completed:
 
 no-interest:
   - ["Broom Service", 172308]
+  - ["Deckscape - Heist in Venice", 245045]
+  - ["Deckscape - The Mystery of Eldorado", 258451]
   - ["Escape Dysturbia: Mörderischer Maskenball", 265113]
   - ["Exit - Das mysteriöse Museum", 244918]
   - ["Exit - Die Katakomben des Grauens", 255675]
