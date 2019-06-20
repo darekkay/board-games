@@ -114,6 +114,9 @@ own:
   - "Dominion":
       id: 36218
       players: [2, 4]
+  - "Escape - Der Fluch des Tempels":
+      id: 113294
+      players: [1, 5]
   - "Exploding Kittens":
       id: 172225
       players: [2, 5]
@@ -192,8 +195,10 @@ own:
       id: 1927
       players: [3, 6]
       expansions:
+        - ["Munchkin 3: Beschwörungsfehler", 6606]
         - ["Munchkin 4: Rasende Rösser", 20660]
         - ["Munchkin 6: Durchgeknallte Dungeons", 33493]
+        - ["Munchkin 8:  Echsenmenschen & Zentauren ", 104232]
   - "Munchkin Beißt!":
       id: 12194
       players: [3, 6]
@@ -218,6 +223,9 @@ own:
   - "Nichtlustig - Labor Chaos":
       id: 50912
       players: [3, 6]
+  - "Nimble":
+      id: 245446
+      players: [2, 4]
   - "Nox":
       id: 123370
       players: [3, 6]
@@ -260,6 +268,9 @@ own:
       id: 320
       players: [2, 4]
       external: true
+  - "Seventh Hero":
+      id: 135116
+      players: [3, 5]
   - "Skull King":
       id: 150145
       players: [2, 6]
@@ -289,6 +300,9 @@ own:
   - "The Resistance":
       id: 41114
       players: [5, 10]
+      expansions:
+        - ["Feindliche Absichten", 162889]
+        - ["Geheime Pläne", 162890]
   - "The Walking Pet":
       id: 217230
       players: [2, 5]
@@ -331,9 +345,10 @@ party:
   - ["Kroko Doc", 10453]
 
 completed:
-  - ["Deckscape - Test Time", 218311]
-  - ["Deckscape - The Fate of London", 230498]
-  - ["Deckscape - Behind the Curtain", 267735]
+  - ["Deckscape - Der Test", 218311]
+  - ["Deckscape - Das Schicksal von London", 230498]
+  - ["Deckscape - Hinter dem Vorhang", 267735]
+  - ["Deckscape - Raub in Venedig", 245045]
   - ["Die Legenden von Andor", 127398]
   - ["Die Legenden von Andor - Reise in den Norden", 156318]
   - ["Exit Puzzle 1: Sternwarte", null]
@@ -352,7 +367,9 @@ completed:
   - ["Exit - Die vergessene Insel", 215841]
   - ["Exit - Die verbotene Burg", 215840]
   - ["Exit - Die verlassene Hütte", 203420]
+  - ["Sherlock - Der Fluch des Qhaqya", 247436]
   - ["Sherlock - Last Call", 250780]
+  - ["Sherlock - Tod am 4. Juli", 250779]
   - ["T.I.M.E. Stories - 1. Der Marcy Fall", 180585]
   - ["T.I.M.E. Stories - 2. Die Drachen Prophezeiung", 189035]
   - ["T.I.M.E. Stories - 3. Hinter der Maske", 189686]
@@ -365,8 +382,8 @@ completed:
 
 no-interest:
   - ["Broom Service", 172308]
-  - ["Deckscape - Heist in Venice", 245045]
-  - ["Deckscape - The Mystery of Eldorado", 258451]
+  - ["Deckscape - Das Geheimnis von Eldorado", 258451]
+  - ["Detective Stories - Fall 1: Das Feuer in Adlerstein", 261145]
   - ["Escape Dysturbia: Mörderischer Maskenball", 265113]
   - ["Exit - Das mysteriöse Museum", 244918]
   - ["Exit - Die Katakomben des Grauens", 255675]
