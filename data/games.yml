@@ -152,6 +152,10 @@ own:
   - "Holmes - Sherlock gegen Moriarty":
       id: 174078
       players: [2, 4]
+  - "Just One":
+      id: 254640
+      players: [4, 7]
+      self-made: true
   - "Kakerlakak":
       id: 137909
       players: [2, 4]
@@ -237,7 +241,6 @@ own:
       id: 30549
       players: [2, 4]
       favorite: true
-      self-made: true
   - "Pandemic Legacy: Season 1":
       id: 161936
       players: [2, 4]
