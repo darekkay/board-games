@@ -65,6 +65,9 @@ own:
   - "Chimera":
       id: 156373
       players: [3, 3]
+  - "Claim":
+      id: 233961
+      players: [2, 2]
   - "Cluedo":
       id: 1294
       external: true
@@ -349,6 +352,7 @@ party:
 
 completed:
   - ["Deckscape - Der Test", 218311]
+  - ["Deckscape - Das Geheimnis von Eldorado", 258451]
   - ["Deckscape - Das Schicksal von London", 230498]
   - ["Deckscape - Hinter dem Vorhang", 267735]
   - ["Deckscape - Raub in Venedig", 245045]
@@ -385,17 +389,22 @@ completed:
 
 no-interest:
   - ["Broom Service", 172308]
-  - ["Deckscape - Das Geheimnis von Eldorado", 258451]
+  - ["Chronicles of Crime", 239188]
+  - ["Chronicles of Crime: Noir", 249811]
   - ["Detective Stories - Fall 1: Das Feuer in Adlerstein", 261145]
   - ["Escape Dysturbia: Mörderischer Maskenball", 265113]
   - ["Exit - Das mysteriöse Museum", 244918]
   - ["Exit - Die Katakomben des Grauens", 255675]
   - ["Exit - Die unheimliche Villa", 226520]
+  - ["Exit - Der Raub auf dem Mississippi", 283934]
   - ["Kingdomino", 204583]
   - ["Junta", 242]
   - ["Phase 10", 1258]
   - ["Pikoko", 244505]
   - ["Qwixx", 131260]
+  - ["Sherlock - 13 Geiseln", 266444]
+  - ["Sherlock - Das Labor", 266445]
+  - ["Sherlock - Der Page", 284195]
   - ["Silhouette", 140650]
   - ["Space Alert", 38453]
   - ["The Game", 173090]
