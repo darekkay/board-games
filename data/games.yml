@@ -120,6 +120,9 @@ own:
   - "Dominion":
       id: 36218
       players: [2, 4]
+  - "Dos":
+      id: 246701
+      players: [2, 4]
   - "Escape - Der Fluch des Tempels":
       id: 113294
       players: [1, 5]
@@ -282,7 +285,7 @@ own:
       external: true
   - "Seventh Hero":
       id: 135116
-      players: [3, 5]
+      players: [4, 5]
   - "Skull King":
       id: 150145
       players: [2, 6]
@@ -418,3 +421,4 @@ no-interest:
   - ["The Game", 173090]
   - ["T.I.M.E. Stories - 7. Brüderschaft der Küste", 220839]
   - ["Unlock - Heroic Adventures", 266121]
+  - ["Wer im Raum", 134642]
