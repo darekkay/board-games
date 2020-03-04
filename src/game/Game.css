@@ -43,6 +43,10 @@
   font-size: 0.9rem;
 }
 
+h1.title {
+  font-size: 16px
+}
+
 .title {
   font-weight: bold;
   cursor: default;

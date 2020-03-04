@@ -20,7 +20,7 @@ class Header extends Component {
         />
         <div className="logo">
           <img src="img/cube.png" alt="" />
-          <div className="title">Board Games</div>
+          <h1 className="title">Board Games</h1>
         </div>
       </header>
     );
