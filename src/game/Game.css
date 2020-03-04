@@ -95,17 +95,17 @@
 }
 
 .expansions {
-  background-color: #008aff;
+  background-color: #005aff;
 }
 
 .tooltip {
   text-align: left;
   max-width: 250px;
-  background-color: #008aff !important;
+  background-color: #005aff !important;
 }
 
 .tooltip:after {
-  border-bottom-color: #008aff !important;
+  border-bottom-color: #005aff !important;
 }
 
 .expansion:before {
