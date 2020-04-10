@@ -5,7 +5,7 @@ own:
       self-made: true
   - "5-Minute Dungeon":
       id: 207830
-      players: [2, 5]
+      players: [2, 6]
       expansions:
         - ["Der Fluch des Overlords", 253170]
   - "6 Nimmt":
@@ -16,7 +16,7 @@ own:
       players: [2, 5]
   - "Adios Amigos":
       id: 41658
-      players: [2, 4]
+      players: [3, 4]
   - "Agent Undercover":
       id: 166384
       players: [5, 8]
