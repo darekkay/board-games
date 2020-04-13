@@ -21,6 +21,7 @@ own:
       id: 166384
       players: [5, 8]
       favorite: true
+      tabletopia: spyfall
   - "Adventure Tours":
       id: 165586
       players: [3, 6]
@@ -139,6 +140,7 @@ own:
   - "Fluxx":
       id: 258
       players: [2, 6]
+      tabletopia: monster-fluxx
   - "Ganz schön clever":
       id: 244522
       players: [1, 4]
@@ -327,6 +329,7 @@ own:
       favorite: true
       expansions:
         - ["Tichu Booster", 206088]
+      tabletopia: tichu
   - "T.I.M.E. Stories":
       id: 146508
       players: [2, 4]
