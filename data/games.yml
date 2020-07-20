@@ -107,6 +107,9 @@ own:
       id: 1426
       players: [2, 2]
       external: true
+  - "Die Crew":
+      id: 284083
+      players: [3, 5]
   - "Die Siedler von Catan":
       id: 13
       players: [3, 4]
