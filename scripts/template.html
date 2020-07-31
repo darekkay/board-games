@@ -70,9 +70,17 @@
     {{/each}}
   </ul>
 
-  <h2>Kein Interesse oder im Besitz</h2>
+  <h2>TODO</h2>
   <ul>
-    {{#each games.3.no-interest}}
+    {{#each games.3.todo}}
+    <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
+           rel="noopener">{{name}}</a></li>
+    {{/each}}
+  </ul>
+
+  <h2>Kein Interesse</h2>
+  <ul>
+    {{#each games.4.no-interest}}
     <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
            rel="noopener">{{name}}</a></li>
     {{/each}}
