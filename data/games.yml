@@ -294,6 +294,9 @@ own:
   - "Skull King":
       id: 150145
       players: [2, 6]
+  - "Spirits of the Wild":
+      id: 256606
+      players: [2, 2]
   - "Star Wars: Angriff der Klonkrieger":
       id: 127438
       players: [2, 4]
