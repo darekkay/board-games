@@ -69,6 +69,8 @@ own:
   - "Claim":
       id: 233961
       players: [2, 2]
+      expansions:
+        - ["Claim 2", 249763]
   - "Cluedo":
       id: 1294
       external: true
@@ -388,10 +390,12 @@ completed:
   - ["Escape Room: Welcome to Funland", 216961]
   - ["Exit - Das geheime Labor", 203417]
   - ["Exit - Das mysteriöse Museum", 244918]
+  - ["Exit - Der Raub auf dem Mississippi", 283934]
   - ["Exit - Der Tote im Orient-Express", 226522]
   - ["Exit - Der versunkene Schatz", 226518]
   - ["Exit - Die Geisterbahn des Schreckens", 269968]
   - ["Exit - Die Grabkammer des Pharao", 203416]
+  - ["Exit - Die Känguru-Eskapaden", 269967]
   - ["Exit - Die Station im ewigen Eis", 215842]
   - ["Exit - Die vergessene Insel", 215841]
   - ["Exit - Die verbotene Burg", 215840]
@@ -400,6 +404,7 @@ completed:
   - ["Sherlock - Der Butler", 296985]
   - ["Sherlock - Der Fluch des Qhaqya", 247436]
   - ["Sherlock - Der Pate", 284195]
+  - ["Sherlock - Grabesstille", 296986]
   - ["Sherlock - Last Call", 250780]
   - ["Sherlock - Tod am 4. Juli", 250779]
   - ["T.I.M.E. Stories - 1. Der Marcy Fall", 180585]
@@ -418,13 +423,10 @@ todo:
   - ["Deckscape - Flucht aus Alcatraz", 295565]
   - ["Decktective: Das gespenstische Gemälde", 298701]
   - ["Detective Stories - Fall 1: Das Feuer in Adlerstein", 261145]
-  - ["Exit - Die Känguru-Eskapaden", 269967]
   - ["Exit - Der verwunschene Wald", 295944]
   - ["Exit - Die Katakomben des Grauens", 255675]
   - ["Exit - Die unheimliche Villa", 226520]
-  - ["Exit - Der Raub auf dem Mississippi", 283934]
   - ["Sherlock - Das Labor", 266445]
-  - ["Sherlock - Grabesstille", 296986]
   - ["Sherlock - Wer ist Vincent Leblanc?", 296987]
   - ["T.I.M.E. Stories - 7. Brüderschaft der Küste", 220839]
 
