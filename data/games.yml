@@ -393,6 +393,7 @@ completed:
   - ["Exit - Der Raub auf dem Mississippi", 283934]
   - ["Exit - Der Tote im Orient-Express", 226522]
   - ["Exit - Der versunkene Schatz", 226518]
+  - ["Exit - Der verwunschene Wald", 295944]
   - ["Exit - Die Geisterbahn des Schreckens", 269968]
   - ["Exit - Die Grabkammer des Pharao", 203416]
   - ["Exit - Die Känguru-Eskapaden", 269967]
@@ -420,10 +421,14 @@ completed:
   - ["Unlock - Secret Adventures", 239307]
 
 todo:
+  - ["Crime Story: Vienna", 298607]
   - ["Deckscape - Flucht aus Alcatraz", 295565]
   - ["Decktective: Das gespenstische Gemälde", 298701]
   - ["Detective Stories - Fall 1: Das Feuer in Adlerstein", 261145]
-  - ["Exit - Der verwunschene Wald", 295944]
+  - ["Escape Adventures – Von Schamanen und Geisterstädten", null]
+  - ["Escape Adventures XXL – Von Fabelwesen und epischen Schlachten", null]
+  - ["Escape Tales - The Awakening", 253214]
+  - ["Exit - Der Friedhof der Finsternis", 295945]
   - ["Exit - Die Katakomben des Grauens", 255675]
   - ["Exit - Die unheimliche Villa", 226520]
   - ["Sherlock - Das Labor", 266445]
