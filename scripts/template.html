@@ -57,32 +57,48 @@
   <h2>Party</h2>
   <ul>
     {{#each games.1.party}}
-    <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
-           rel="noopener">{{name}}</a></li>
+      {{#if id}}
+        <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
+             rel="noopener">{{name}}</a></li>
+      {{else}}
+        <li>{{name}}</li>
+      {{/if}}
     {{/each}}
   </ul>
 
   <h2>Durchgespielt</h2>
   <ul>
     {{#each games.2.completed}}
-    <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
-           rel="noopener">{{name}}</a></li>
+      {{#if id}}
+        <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
+             rel="noopener">{{name}}</a></li>
+      {{else}}
+        <li>{{name}}</li>
+      {{/if}}
     {{/each}}
   </ul>
 
   <h2>TODO</h2>
   <ul>
     {{#each games.3.todo}}
-    <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
+      {{#if id}}
+        <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
            rel="noopener">{{name}}</a></li>
+      {{else}}
+        <li>{{name}}</li>
+      {{/if}}
     {{/each}}
   </ul>
 
   <h2>Kein Interesse</h2>
   <ul>
     {{#each games.4.no-interest}}
-    <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
-           rel="noopener">{{name}}</a></li>
+      {{#if id}}
+        <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
+             rel="noopener">{{name}}</a></li>
+      {{else}}
+        <li>{{name}}</li>
+      {{/if}}
     {{/each}}
   </ul>
 </main>
