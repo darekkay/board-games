@@ -99,6 +99,9 @@ own:
   - "Cranium Karten":
       id: 88608
       players: [4, +]
+  - "Dark is the Night":
+      id: 204466
+      players: [2, 2]
   - "Deception: Murder in Hong Kong":
       id: 156129
       players: [4, 12]
@@ -276,6 +279,9 @@ own:
   - "Port Royal":
       id: 156009
       players: [2, 5]
+  - "Raxxon ":
+      id: 231197
+      players: [1, 4]
   - "Qwinto":
       id: 183006
       players: [2, 6]
@@ -422,6 +428,7 @@ completed:
 
 todo:
   - ["Crime Story: Vienna", 298607]
+  - ["Deadline", 145601]
   - ["Deckscape - Flucht aus Alcatraz", 295565]
   - ["Decktective: Das gespenstische Gemälde", 298701]
   - ["Detective Stories - Fall 1: Das Feuer in Adlerstein", 261145]
