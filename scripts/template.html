@@ -40,7 +40,7 @@
 <body>
 
 <main>
-  <h2>Im Besitz</h2>
+  <h2 id="list-own">Im Besitz</h2>
   <ul>
     {{#each games.0.own}}
     <li><a href="https://boardgamegeek.com/boardgame/{{id}}" target="_blank"
@@ -54,7 +54,7 @@
     {{/each}}
   </ul>
 
-  <h2>Party</h2>
+  <h2 id="list-party">Party</h2>
   <ul>
     {{#each games.1.party}}
       {{#if id}}
@@ -66,7 +66,7 @@
     {{/each}}
   </ul>
 
-  <h2>Durchgespielt</h2>
+  <h2 id="list-done">Durchgespielt</h2>
   <ul>
     {{#each games.2.completed}}
       {{#if id}}
@@ -78,7 +78,7 @@
     {{/each}}
   </ul>
 
-  <h2>TODO</h2>
+  <h2 id="list-todo">TODO</h2>
   <ul>
     {{#each games.3.todo}}
       {{#if id}}
@@ -90,7 +90,7 @@
     {{/each}}
   </ul>
 
-  <h2>Kein Interesse</h2>
+  <h2 id="list-no-interest">Kein Interesse</h2>
   <ul>
     {{#each games.4.no-interest}}
       {{#if id}}
