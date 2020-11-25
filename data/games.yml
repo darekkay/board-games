@@ -48,6 +48,7 @@ own:
         - ["Black Stories - Funny Death", 96345]
         - ["Black Stories - Real Crime", 57052]
         - ["Black Stories - Scary Music", 230563]
+        - ["Black Stories - Sebastian Fitzek", 258438]
   - "Bohnanza":
       id: 11
       players: [3, 7]
@@ -91,6 +92,8 @@ own:
   - "Concept":
       id: 147151
       players: [2, +]
+      expansions:
+        - ["Neue Begriffe", 273468]
   - "Coup":
       id: 131357
       players: [3, 6]
@@ -185,6 +188,9 @@ own:
   - "Kill Doctor Lucky":
       id: 257
       players: [3, 8]
+  - "Killer Cruise":
+      id: 319107
+      players: [2, 4]
   - "Klugscheisser":
       id: 137168
       players: [2, +]
@@ -289,6 +295,9 @@ own:
   - "Raptor":
       id: 177639
       players: [2, 2]
+  - "Safehouse":
+      id: 234877
+      players: [2, 4]
   - "Scotland Yard":
       id: 438
       players: [3, 6]
@@ -344,9 +353,6 @@ own:
       expansions:
         - ["Tichu Booster", 206088]
       tabletopia: tichu
-  - "T.I.M.E. Stories":
-      id: 146508
-      players: [2, 4]
   - "Tummple":
       id: 156878
       players: [2, 6]
@@ -381,6 +387,7 @@ completed:
   - ["Deckscape - Das Geheimnis von Eldorado", 258451]
   - ["Deckscape - Das Schicksal von London", 230498]
   - ["Deckscape - Der Fluch der Sphinx", 283718]
+  - ["Deckscape - Flucht aus Alcatraz", 295565]
   - ["Deckscape - Hinter dem Vorhang", 267735]
   - ["Deckscape - Raub in Venedig", 245045]
   - ["Die Legenden von Andor", 127398]
@@ -415,6 +422,7 @@ completed:
   - ["Sherlock - Grabesstille", 296986]
   - ["Sherlock - Last Call", 250780]
   - ["Sherlock - Tod am 4. Juli", 250779]
+  - ["T.I.M.E. Stories", 146508]
   - ["T.I.M.E. Stories - 1. Der Marcy Fall", 180585]
   - ["T.I.M.E. Stories - 2. Die Drachen Prophezeiung", 189035]
   - ["T.I.M.E. Stories - 3. Hinter der Maske", 189686]
@@ -431,18 +439,24 @@ completed:
   - ["Unlock - Secret Adventures", 239307]
 
 todo:
+  - ["Adventure Games - Grand Hotel Abaddon", 295949]
   - ["Crime Story: Vienna", 298607]
   - ["Deadline", 145601]
-  - ["Deckscape - Flucht aus Alcatraz", 295565]
   - ["Decktective: Das gespenstische Gemälde", 298701]
   - ["Detective Stories - Fall 1: Das Feuer in Adlerstein", 261145]
   - ["Escape Adventures – Von Schamanen und Geisterstädten", null]
   - ["Escape Adventures XXL – Von Fabelwesen und epischen Schlachten", null]
   - ["Escape Tales - The Awakening", 253214]
+  - ["Exit - Das verfluchte Labyrinth", 317432]
+  - ["Exit - Der Flug ins Ungewisse", 283797]
   - ["Exit - Die Katakomben des Grauens", 255675]
   - ["Exit - Die unheimliche Villa", 226520]
+  - ["Exit - Der einsame Leuchtturm (+ Puzzle)", 298282]
   - ["Hidden Games Tatort - Der Fall Klein-Borstelheim", null]
   - ["Sherlock - Das Labor", 266445]
+  - ["Sherlock - Die Fälschung", 325679]
+  - ["Sherlock - Mord im Nachtzug", 325681]
+  - ["Sherlock - Séance mit einem Toten", 325678]
   - ["Sherlock - Wer ist Vincent Leblanc?", 296987]
 
 no-interest:
