@@ -6,12 +6,14 @@ import Icon from "../icon/Icon.jsx";
 import "./Game.css";
 
 class Game extends Component {
-  shouldComponentUpdate = () => false; // The game content does not ever change
+  shouldComponentUpdate() {
+    return false; // The game content does not ever change
+  }
 
   render() {
     const { id, players, title, custom, favorite, expansions } = this.props;
 
-    const renderPlayers = players => {
+    const renderPlayers = () => {
       let output = players.min;
       if (players.min !== players.max) {
         output += !players.max ? "+" : ` - ${players.max}`;
@@ -19,9 +21,9 @@ class Game extends Component {
       return output;
     };
 
-    const renderExpansions = expansions => {
+    const renderExpansions = () => {
       return expansions
-        .map(expansion => `<div class="expansion">${expansion[0]}</div>`)
+        .map((expansion) => `<div class="expansion">${expansion[0]}</div>`)
         .reduce((acc, val) => acc + val);
     };
 
@@ -54,18 +56,18 @@ class Game extends Component {
               <div
                 className="expansions"
                 title="Expansions"
-                data-tip={renderExpansions(expansions)}
+                data-tip={renderExpansions()}
               >
                 <Icon name="expansions" />
               </div>
             )}
-            <div className="players">{renderPlayers(players)}</div>
+            <div className="players">{renderPlayers()}</div>
             <ReactTooltip
               className="tooltip"
               effect="solid"
               place="bottom"
               type="info"
-              html={true}
+              html
             />
           </div>
         </div>

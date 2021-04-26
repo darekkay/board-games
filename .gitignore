@@ -17,6 +17,8 @@ package-lock.json
 ### App ###
 
 /build
+/build-cra
+/dist
 /coverage
 .env*.local
 /src/data

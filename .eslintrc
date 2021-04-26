@@ -1,24 +1,12 @@
 {
-  "extends": ["react-app", "prettier"],
-  "env": {
-    "browser": true,
-    "es6": true,
-    "jest": true,
-    "node": true
-  },
-  "plugins": ["import", "jsx-a11y", "prettier", "react"],
-  "root": true,
+  "extends": ["@darekkay/eslint-config/react"],
   "rules": {
-    "linebreak-style": "off",
-    "prettier/prettier": "warn",
-    "radix": "off",
     "react/jsx-filename-extension": "off",
-    "react/prop-types": "warn",
-    "react/require-default-props": "warn"
-  },
-  "settings": {
-    "react": {
-      "version": "detect"
-    }
+
+    "no-unused-vars": "off",
+    "react/prop-types": "off",
+    "jest/require-top-level-describe": "off",
+    "jest/expect-expect": "off",
+    "import/no-unresolved": "off"
   }
 }

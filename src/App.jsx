@@ -4,7 +4,6 @@ import "./App.css";
 import Header from "./header/Header";
 import Footer from "./footer/Footer";
 import GameList, { filteredGamesCount } from "./gamelist/GameList";
-
 import games from "./data/games.json";
 
 class App extends Component {
@@ -15,7 +14,7 @@ class App extends Component {
 
   onPlayerChange(value) {
     this.setState({
-      player: value
+      player: value,
     });
   }
 

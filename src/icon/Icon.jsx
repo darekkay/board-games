@@ -8,7 +8,7 @@ const template = (width, height, path) => (
   </svg>
 );
 
-const icon = name => {
+const icon = (name) => {
   switch (name) {
     case "expansions":
       return template(

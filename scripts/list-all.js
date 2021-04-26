@@ -30,5 +30,5 @@ const transform = source =>
 
 const result = template({ games: transform(games) });
 if (result) {
-  fs.writeFileSync(`${__dirname}/../build/list-all.html`, result);
+  fs.writeFileSync(`${__dirname}/../dist/list-all.html`, result);
 }
