@@ -1,0 +1,17 @@
+node_modules/
+.idea/
+.git/
+public/
+dist/
+build/
+out/
+tmp/
+temp/
+coverage/
+storybook-static/
+
+*.min.js
+*.hbs
+*.html
+
+src/data/games.json
