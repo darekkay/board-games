@@ -107,7 +107,7 @@ own:
       players: [2, 2]
   - "Deception: Murder in Hong Kong":
       id: 156129
-      players: [4, 12]
+      players: [5, 12]
   - "Der Herr der Ringe - Die Gefährten":
       id: 2672
       players: [2, 4]
@@ -269,9 +269,6 @@ own:
       id: 30549
       players: [2, 4]
       favorite: true
-  - "Pandemic Legacy: Season 1":
-      id: 161936
-      players: [2, 4]
   - "Patchwork":
       id: 163412
       players: [2, 2]
@@ -415,6 +412,7 @@ completed:
   - ["Exit - Die vergessene Insel", 215841]
   - ["Exit - Die verbotene Burg", 215840]
   - ["Exit - Die verlassene Hütte", 203420]
+  - ["Pandemic Legacy: Season 1", 161936]
   - ["Sherlock - 13 Geiseln", 266444]
   - ["Sherlock - Der Butler", 296985]
   - ["Sherlock - Der Fluch des Qhaqya", 247436]
@@ -447,6 +445,8 @@ todo:
   - ["Escape Adventures – Von Schamanen und Geisterstädten", null]
   - ["Escape Adventures XXL – Von Fabelwesen und epischen Schlachten", null]
   - ["Escape Tales - The Awakening", 253214]
+  - ["Escape Room: The Game 2", 291105]
+  - ["Escape Room: The Game Duo", 325704]
   - ["Exit - Das verfluchte Labyrinth", 317432]
   - ["Exit - Der Flug ins Ungewisse", 283797]
   - ["Exit - Die Katakomben des Grauens", 255675]
