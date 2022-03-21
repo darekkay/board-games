@@ -92,6 +92,7 @@ own:
   - "Concept":
       id: 147151
       players: [2, +]
+      favorite: true
       expansions:
         - ["Neue Begriffe", 273468]
   - "Coup":
@@ -115,6 +116,9 @@ own:
       id: 1426
       players: [2, 2]
       external: true
+  - "Der Herr der Träume":
+      id: 233312
+      players: [2, 4]
   - "Die Crew":
       id: 284083
       players: [3, 5]
@@ -173,7 +177,7 @@ own:
       players: [2, 2]
   - "Holmes - Sherlock gegen Moriarty":
       id: 174078
-      players: [2, 4]
+      players: [2, 2]
   - "Just One":
       id: 254640
       players: [4, 7]
@@ -213,7 +217,6 @@ own:
   - "Magic Maze":
       id: 209778
       players: [2, 8]
-      favorite: true
   - "Memoarrr!":
       id: 230383
       players: [2, 4]
@@ -305,6 +308,9 @@ own:
   - "Seventh Hero":
       id: 135116
       players: [4, 5]
+  - "Side Quest":
+      id: 178450
+      players: [1, 4]
   - "Skull King":
       id: 150145
       players: [2, 6]
@@ -328,6 +334,7 @@ own:
   - "The Lost Expedition":
       id: 216459
       players: [1, 5]
+      favorite: true
       expansions:
         - ["The Fountain of Youth & Other Adventures", 248181]
   - "The Mind":
@@ -380,6 +387,8 @@ party:
   - ["Kroko Doc", 10453]
 
 completed:
+  - ["Arkham Horror - Das Kartenspiel", 205637]
+  - ["Cluebox - Schrödinger's Katze", null]
   - ["Deckscape - Der Test", 218311]
   - ["Deckscape - Das Geheimnis von Eldorado", 258451]
   - ["Deckscape - Das Schicksal von London", 230498]
@@ -387,6 +396,7 @@ completed:
   - ["Deckscape - Flucht aus Alcatraz", 295565]
   - ["Deckscape - Hinter dem Vorhang", 267735]
   - ["Deckscape - Raub in Venedig", 245045]
+  - ["Decktective: Das gespenstische Gemälde", 298701]
   - ["Die Legenden von Andor", 127398]
   - ["Die Legenden von Andor - Reise in den Norden", 156318]
   - ["Exit Puzzle 1: Sternwarte", null]
@@ -412,11 +422,13 @@ completed:
   - ["Exit - Die vergessene Insel", 215841]
   - ["Exit - Die verbotene Burg", 215840]
   - ["Exit - Die verlassene Hütte", 203420]
+  - ["Exit - Schatten über Mittelerde", 341573]
   - ["Pandemic Legacy: Season 1", 161936]
   - ["Sherlock - 13 Geiseln", 266444]
   - ["Sherlock - Der Butler", 296985]
   - ["Sherlock - Der Fluch des Qhaqya", 247436]
   - ["Sherlock - Der Pate", 284195]
+  - ["Sherlock - Die Fälschung", 325679]
   - ["Sherlock - Grabesstille", 296986]
   - ["Sherlock - Last Call", 250780]
   - ["Sherlock - Tod am 4. Juli", 250779]
@@ -440,7 +452,6 @@ todo:
   - ["Adventure Games - Grand Hotel Abaddon", 295949]
   - ["Crime Story: Vienna", 298607]
   - ["Deadline", 145601]
-  - ["Decktective: Das gespenstische Gemälde", 298701]
   - ["Detective Stories - Fall 1: Das Feuer in Adlerstein", 261145]
   - ["Escape Adventures – Von Schamanen und Geisterstädten", null]
   - ["Escape Adventures XXL – Von Fabelwesen und epischen Schlachten", null]
@@ -454,7 +465,6 @@ todo:
   - ["Exit - Der einsame Leuchtturm (+ Puzzle)", 298282]
   - ["Hidden Games Tatort - Der Fall Klein-Borstelheim", null]
   - ["Sherlock - Das Labor", 266445]
-  - ["Sherlock - Die Fälschung", 325679]
   - ["Sherlock - Mord im Nachtzug", 325681]
   - ["Sherlock - Séance mit einem Toten", 325678]
   - ["Sherlock - Wer ist Vincent Leblanc?", 296987]
@@ -463,13 +473,13 @@ no-interest:
   - ["Broom Service", 172308]
   - ["Chronicles of Crime", 239188]
   - ["Chronicles of Crime: Noir", 249811]
+  - ["Cryptid", 246784]
   - ["Kingdomino", 204583]
   - ["Junta", 242]
+  - ["Mutabo", 238094]
   - ["Phase 10", 1258]
   - ["Pikoko", 244505]
   - ["Qwixx", 131260]
-  - ["Robinson Crusoe", 121921]
   - ["Silhouette", 140650]
   - ["Space Alert", 38453]
-  - ["The Game", 173090]
   - ["Wer im Raum", 134642]
