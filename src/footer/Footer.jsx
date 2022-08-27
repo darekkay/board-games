@@ -7,13 +7,8 @@ class Footer extends Component {
     return (
       <footer>
         <div className="footer-link">
-          <a
-            href="https://darekkay.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="animated"
-          >
-            Handmade with &hearts; by Darek Kay
+          <a href="https://darekkay.com/board-games/list-all.html">
+            See all games
           </a>
         </div>
 
@@ -26,7 +21,6 @@ class Footer extends Component {
             href="https://github.com/darekkay/board-games"
             target="_blank"
             rel="noopener noreferrer"
-            className="animated"
           >
             Fork me on GitHub
           </a>
