@@ -11,12 +11,14 @@ own:
   - "6 Nimmt":
       id: 432
       players: [4, 10]
-  - "Abluxxen":
-      id: 153065
-      players: [2, 5]
   - "Adios Amigos":
       id: 41658
       players: [3, 4]
+  - "Aeon's End - Für die Ewigkeit":
+      id: 218417
+      players: [1, 4]
+      expansions:
+        - ["Hinter der Finsternis", 228552]
   - "Agent Undercover":
       id: 166384
       players: [5, 8]
@@ -55,9 +57,6 @@ own:
   - "Buffy the Vampire Slayer":
       id: 203102
       players: [1, 6]
-  - "Café International - Das Kartenspiel":
-      id: 1324
-      players: [2, 5]
   - "Camel Up - Cards":
       id: 192947
       players: [2, 6]
@@ -148,6 +147,9 @@ own:
       expansions:
         - ["Imploding Kittens", 204053]
         - ["Streaking Kittens", 260214]
+  - "Exploding Snap!":
+      id: 367397
+      players: [2, 2]
   - "Fairy Tale":
       id: 13823
       players: [2, 5]
@@ -189,9 +191,6 @@ own:
   - "Keep Talking and Nobody Explodes":
       id: c002
       players: [2, 6]
-  - "Kill Doctor Lucky":
-      id: 257
-      players: [3, 8]
   - "Killer Cruise":
       id: 319107
       players: [2, 4]
