@@ -1,5 +1,5 @@
 own:
-  - "13 Minutes: The Cuban Missile Crisis":
+  - "13 Minuten: Die Kubakrise 1962":
       id: 203828
       players: [2, 2]
       self-made: true
@@ -8,13 +8,13 @@ own:
       players: [2, 6]
       expansions:
         - ["Der Fluch des Overlords", 253170]
-  - "6 Nimmt":
+  - "6 nimmt!":
       id: 432
       players: [4, 10]
   - "Adios Amigos":
       id: 41658
       players: [3, 4]
-  - "Aeon's End - Für die Ewigkeit":
+  - "Aeon's End: Für die Ewigkeit":
       id: 218417
       players: [1, 4]
       expansions:
@@ -30,13 +30,13 @@ own:
   - "Asara":
       id: 72991
       players: [2, 4]
-  - "Bang":
+  - "BANG!":
       id: 3955
       players: [5, 7]
       expansions:
         - ["Gold Rush", 107794]
         - ["Bang Expansion Pack", 183275]
-  - "Bang - The Walking Dead":
+  - "BANG!: The Walking Dead":
       id: 160567
       players: [5, 7]
   - "Black Stories":
@@ -47,17 +47,17 @@ own:
         - ["Black Stories 3 (App)", 26054]
         - ["Black Stories 4", 41311]
         - ["Black Stories 10", 168199]
-        - ["Black Stories - Funny Death", 96345]
-        - ["Black Stories - Real Crime", 57052]
-        - ["Black Stories - Scary Music", 230563]
-        - ["Black Stories - Sebastian Fitzek", 258438]
+        - ["Black Stories: Funny Death Edition", 96345]
+        - ["Black Stories: Real Crime Edition", 57052]
+        - ["Black Stories: Scary Music Edition", 230563]
+        - ["Black Stories: Sebastian Fitzek Edition", 258438]
   - "Bohnanza":
       id: 11
       players: [3, 7]
   - "Buffy the Vampire Slayer":
       id: 203102
       players: [1, 6]
-  - "Camel Up - Cards":
+  - "Camel Up Cards":
       id: 192947
       players: [2, 6]
   - "Chez Genius":
@@ -79,7 +79,7 @@ own:
       id: 178900
       players: [2, +]
       favorite: true
-  - "Codenames Duet":
+  - "Codenames: Duet":
       id: 224037
       players: [2, 2]
   - "Colt Express":
@@ -98,7 +98,7 @@ own:
       id: 131357
       players: [3, 6]
       expansions:
-        - ["Coup: Reformation", 148931]
+        - ["Reformation", 148931]
   - "Cranium Karten":
       id: 88608
       players: [4, +]
@@ -108,10 +108,10 @@ own:
   - "Deception: Murder in Hong Kong":
       id: 156129
       players: [5, 12]
-  - "Der Herr der Ringe - Die Gefährten":
+  - "Der Herr der Ringe: Die Gefährten":
       id: 2672
       players: [2, 4]
-  - "Der Herr der Ringe - Die Suche":
+  - "Der Herr der Ringe: Die Suche":
       id: 1426
       players: [2, 2]
       external: true
@@ -135,10 +135,13 @@ own:
   - "Dominion":
       id: 36218
       players: [2, 4]
-  - "Dos":
+  - "DOS":
       id: 246701
       players: [2, 4]
-  - "Escape - Der Fluch des Tempels":
+  - "Ensemble":
+      id: 293665
+      players: [2, 10]
+  - "Escape: Der Fluch des Tempels":
       id: 113294
       players: [1, 5]
   - "Exploding Kittens":
@@ -158,6 +161,10 @@ own:
       id: 258
       players: [2, 6]
       tabletopia: monster-fluxx
+  - "Fun Facts":
+      id: 370164
+      players: [4, 8]
+      self-made: true
   - "Ganz schön clever":
       id: 244522
       players: [1, 4]
@@ -177,7 +184,7 @@ own:
   - "Hanamikoji":
       id: 158600
       players: [2, 2]
-  - "Holmes - Sherlock gegen Moriarty":
+  - "Holmes: Sherlock gegen Moriarty":
       id: 174078
       players: [2, 2]
   - "Just One":
@@ -191,28 +198,25 @@ own:
   - "Keep Talking and Nobody Explodes":
       id: c002
       players: [2, 6]
-  - "Killer Cruise":
+  - "Killercruise":
       id: 319107
       players: [2, 4]
   - "Klugscheisser":
-      id: 137168
+      id: 125083
       players: [2, +]
-  - "Kodama":
+  - "Kodama: Die Baumgeister":
       id: 181810
       players: [2, 5]
   - "Kurzer Prozess":
       id: 217136
       players: [3, 6]
-  - "Level 8 - Das Kartenspiel":
+  - "Level 8: Das Kartenspiel":
       id: 36599
       players: [2, 6]
   - "Love Letter":
       id: 129622
       players: [2, 4]
       self-made: true
-  - "Machi Koro":
-      id: 143884
-      players: [2, 4]
   - "Magic Maze":
       id: 209778
       players: [2, 8]
@@ -232,7 +236,7 @@ own:
         - ["Munchkin 3: Beschwörungsfehler", 6606]
         - ["Munchkin 4: Rasende Rösser", 20660]
         - ["Munchkin 6: Durchgeknallte Dungeons", 33493]
-        - ["Munchkin 8:  Echsenmenschen & Zentauren ", 104232]
+        - ["Munchkin 8: Echsenmenschen & Zentauren ", 104232]
   - "Munchkin Beißt!":
       id: 12194
       players: [3, 6]
@@ -242,31 +246,30 @@ own:
       players: [4, 7]
       favorite: true
       expansions:
-        - ["Mysterium - Hidden Signs", 192661]
-        - ["Mysterium - Secrets & Lies", 216465]
+        - ["Hidden Signs", 192661]
+        - ["Secrets & Lies", 216465]
   - "Nichtlustig":
       id: 27837
       players: [2, 4]
-  - "Nichtlustig - Doppelgänger":
+  - "Nichtlustig: Doppelgänger":
       id: c001
       players: [2, 4]
       custom: true
-  - "Nichtlustig - Fäkalini":
+  - "Nichtlustig: Fäkalini":
       id: 153372
       players: [2, 4]
-  - "Nichtlustig - Labor Chaos":
+  - "Nichtlustig: Labor Chaos":
       id: 50912
       players: [3, 6]
   - "Nimble":
       id: 245446
       players: [2, 4]
-  - "Nox":
-      id: 123370
-      players: [3, 6]
   - "Onitama":
       id: 160477
       players: [2, 2]
       self-made: true
+      expansions:
+        - ["Sensei's Path", 219326]
   - "Pandemic":
       id: 30549
       players: [2, 4]
@@ -284,7 +287,7 @@ own:
   - "Port Royal":
       id: 156009
       players: [2, 5]
-  - "Raxxon ":
+  - "Raxxon":
       id: 231197
       players: [1, 4]
   - "Qwinto":
@@ -327,7 +330,7 @@ own:
       id: 206915
       players: [3, 10]
       favorite: true
-  - "The Game - Extreme":
+  - "The Game: Extreme":
       id: 209325
       players: [1, 5]
   - "The Lost Expedition":
@@ -339,6 +342,10 @@ own:
   - "The Mind":
       id: 244992
       players: [2, 4]
+      self-made: true
+  - "The Mind Soulmates":
+      id: 378851
+      players: [2, 5]
       self-made: true
   - "The Resistance":
       id: 41114
@@ -356,7 +363,11 @@ own:
       expansions:
         - ["Tichu Booster", 206088]
       tabletopia: tichu
-  - "Tummple":
+  - "Top Ten":
+      id: 300905
+      players: [4, 9]
+      self-made: true
+  - "Tummple!":
       id: 156878
       players: [2, 6]
   - "Ubongo Mini":
@@ -369,7 +380,7 @@ own:
   - "Wizard":
       id: 1465
       players: [3, 6]
-  - "Werwölfe":
+  - "Werwölfe Deluxe":
       id: 144464
       players: [9, 68]
   - "Werwörter":
@@ -392,6 +403,7 @@ completed:
   - ["Deckscape - Das Geheimnis von Eldorado", 258451]
   - ["Deckscape - Das Schicksal von London", 230498]
   - ["Deckscape - Der Fluch der Sphinx", 283718]
+  - ["Deckscape - Draculas Schloss", 343387]
   - ["Deckscape - Flucht aus Alcatraz", 295565]
   - ["Deckscape - Hinter dem Vorhang", 267735]
   - ["Deckscape - Raub in Venedig", 245045]
@@ -447,6 +459,7 @@ completed:
   - ["Unlock - Heroic Adventures", 266121]
   - ["Unlock - Mystery Adventures", 228867]
   - ["Unlock - Secret Adventures", 239307]
+  - ["Unlock - Timeless Adventures - Verloren im Zeitstrudel", 331953]
 
 todo:
   - ["Adventure Games - Grand Hotel Abaddon", 295949]
